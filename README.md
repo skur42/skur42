@@ -16,11 +16,11 @@
 <br />
 <br />
 
-I'm a Full Stack Developer & Designer from India 🇮🇳, currently I'm the Lead Frontend Developer at 🙍🏽‍♂️ @Noesis Learnings.
+I'm a Full Stack Developer & Designer from India 🇮🇳, currently I'm the Lead Frontend Developer at 🙍🏽‍♂️ @Noesis Learnings. I love working with perfection and great design in my work.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Voz
+- 🛠 I’m currently working on Voz(https://thevoz.in/)
 - 📫 How to reach me: Message me on LinkedIN
 -->
 
