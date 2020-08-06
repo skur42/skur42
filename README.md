@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 - 🛠 I’m currently working on <a href="https://thevoz.in/" target="__blank">Voz</a>
 - 📫 How to reach me: Message me on LinkedIN
--->
 
 <br />
 
