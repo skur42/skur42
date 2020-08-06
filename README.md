@@ -20,7 +20,7 @@ I'm a Full Stack Developer & Designer from India 🇮🇳, currently I'm the Lea
 
 Here are some ideas to get you started:
 
-- 🛠 I’m currently working on Voz(https://thevoz.in/)
+- 🛠 I’m currently working on <a href="https://thevoz.in/" target="__blank">Voz</a>
 - 📫 How to reach me: Message me on LinkedIN
 -->
 
