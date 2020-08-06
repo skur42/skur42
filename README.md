@@ -18,9 +18,6 @@
 
 I'm a Full Stack Developer & Designer from India 🇮🇳, currently I'm the Lead Frontend Developer at 🙍🏽‍♂️ @Noesis Learnings.
 
-<br />
-<br />
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -33,6 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
 
 **My Arsenal:**  
 
