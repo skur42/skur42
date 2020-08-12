@@ -16,12 +16,19 @@
 <br />
 <br />
 
-I'm a Full Stack Developer & Designer, currently leading the frontend development at 🙍🏽‍♂️ @Noesis Learnings. I love working with perfection and great design. My expertise is in React JS, Javascript, CSS, MongoDB and NodeJS.
+<p font-weight:"bold">I'm a Full Stack Developer & Designer, currently leading the frontend development at 🙍🏽‍♂️ @Noesis Learnings. I love working with perfection and great design. My expertise is in React JS, Javascript, CSS, MongoDB and NodeJS.</p>
 
-Here are some ideas to get you started:
+<p>
+<div class="hello">
+  <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_500_kckasloz.gif" align="right" height="500" width="500" padding-top:"20"></div>
+</div>
+</p>
+
+<p font-weight:"bold">Here are some ideas to get you started:
 
 - 🛠 I’m currently working on <a href="https://thevoz.in/" target="__blank">Voz</a>
 - 📫 How to reach me: Message me on LinkedIN
+</p>
 
 <p>
 <div class="hello">
