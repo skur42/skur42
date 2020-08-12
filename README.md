@@ -16,7 +16,7 @@
 <br />
 <br />
 
-#### I'm a Full Stack Developer & Designer, currently leading the frontend development at 🙍🏽‍♂️ @Noesis Learnings. I love working with perfection and great design. My expertise is in React JS, Javascript, CSS, MongoDB and NodeJS.
+### I'm a Full Stack Developer & Designer, currently leading the frontend development at 🙍🏽‍♂️ @Noesis Learnings. I love working with perfection and great design. My expertise is in React JS, Javascript, CSS, MongoDB and NodeJS.
 
 <p>
 <div class="hello">
@@ -24,9 +24,9 @@
 </div>
 </p>
 
-#### Here are some ideas to get you started:
-#### - 🛠 I’m currently working on <a href="https://thevoz.in/" target="__blank">Voz</a>
-#### - 📫 How to reach me: Message me on LinkedIN
+### Here are some ideas to get you started:
+### - 🛠 I’m currently working on <a href="https://thevoz.in/" target="__blank">Voz</a>
+### - 📫 How to reach me: Message me on LinkedIN
 
 <p>
 <div class="hello">
