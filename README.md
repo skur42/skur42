@@ -16,12 +16,18 @@
 <br />
 <br />
 
-I'm a Full Stack Developer & Designer from India 🇮🇳, currently I'm the Lead Frontend Developer at 🙍🏽‍♂️ @Noesis Learnings. I love working with perfection and great design in my work.
+I'm a Full Stack Developer & Designer, currently leading the frontend development at 🙍🏽‍♂️ @Noesis Learnings. I love working with perfection and great design. My expertise is in React JS, Javascript, CSS, MongoDB and NodeJS.
 
 Here are some ideas to get you started:
 
 - 🛠 I’m currently working on <a href="https://thevoz.in/" target="__blank">Voz</a>
 - 📫 How to reach me: Message me on LinkedIN
+
+<p>
+<div class="hello">
+  <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_300_kckabl3r.gif" height="200" width="200"></div>
+</div>
+</p>
 
 <br />
 
