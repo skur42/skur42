@@ -16,7 +16,7 @@
 <br />
 <br />
 
-### I'm a Full Stack Developer & Designer, currently working as a Software Development Engineer at 🙍🏽‍♂️ [@Zomato](https://zomato.com) Learnings. I love working with perfection and great design. My expertise is in ReactJS, Redux, Javascript, CSS, MongoDB and NodeJS.
+### I'm a Full Stack Developer & Designer, currently working as a Software Development Engineer at 🙍🏽‍♂️ [@Zomato](https://zomato.com). I love working with perfection and great design. My expertise is in ReactJS, Redux, Javascript, CSS, MongoDB and NodeJS.
 
 <p>
 <div class="hello">
