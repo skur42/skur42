@@ -25,7 +25,7 @@
 </p>
 
 ### Here are some ideas to get you started:
-### - 🛠 I’m currently working on <a href="https://thevoz.in/" target="__blank">Voz</a>
+### - 🛠 I’m currently working on <a href="https://thevoz.in/" target="__blank">Voz</a> as a side project.
 ### - 📫 How to reach me: Message me on LinkedIN
 
 <p>
