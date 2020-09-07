@@ -16,7 +16,7 @@
 <br />
 <br />
 
-### I'm a Full Stack Developer & Designer, currently leading the frontend development at 🙍🏽‍♂️ @Noesis Learnings. I love working with perfection and great design. My expertise is in React JS, Javascript, CSS, MongoDB and NodeJS.
+### I'm a Full Stack Developer & Designer, currently working as a Software Development Engineer at 🙍🏽‍♂️ @Zomato Learnings. I love working with perfection and great design. My expertise is in ReactJS, Redux, Javascript, CSS, MongoDB and NodeJS.
 
 <p>
 <div class="hello">
