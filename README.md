@@ -16,7 +16,7 @@
 <br />
 <br />
 
-### I'm a Full Stack Developer & Designer, currently working as a Software Development Engineer 🙍🏽‍♂️ [@Zomato](https://zomato.com). I love working with perfection and great design. My expertise is in ReactJS, Redux, Javascript, CSS, MongoDB and NodeJS.
+## I'm a Full Stack Developer & Designer, currently working as a Software Development Engineer 🙍🏽‍♂️ [@Zomato](https://zomato.com). I love working with perfection and great design. My expertise is in ReactJS, Redux, Javascript, CSS, MongoDB and NodeJS.
 
 <p>
 <div class="hello">
@@ -24,9 +24,9 @@
 </div>
 </p>
 
-### Here are some ideas to get you started:
-### - 🛠 I’m currently working on <a href="https://thevoz.in/" target="__blank">Voz</a> as a side project.
-### - 📫 How to reach me: Message me on LinkedIN
+## Here are some ideas to get you started:
+## - 🛠 I’m currently building <a href="https://thevoz.in/" target="__blank">Voz</a>.
+## - 📫 How to reach me: Message me on LinkedIN
 
 <p>
 <div class="hello">
