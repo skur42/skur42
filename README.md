@@ -26,7 +26,7 @@ I'm a Full Stack Developer & Designer, currently working as a Software Developme
 
 Here are some ideas to get you started:
 - 🛠 I’m currently building <a href="https://thevoz.in/" target="__blank">Voz</a>.
-- 📫 How to reach me: Message me on LinkedIN
+- 📫 How to reach me: LinkedIN
 
 <p>
 <div class="hello">
