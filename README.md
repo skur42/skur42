@@ -18,21 +18,9 @@
 
 I'm a Full Stack Developer & Product Designer, currently working as a Software Development Engineer 🙍🏽‍♂️ [@Zomato](https://zomato.com). I love working with perfection and great design. My expertise is in ReactJS, Redux, Javascript, CSS, MongoDB and NodeJS.
 
-<p>
-<div class="hello">
-  <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_500_kckasloz.gif" align="right" height="360" width="360" padding-top:"20"></div>
-</div>
-</p>
-
 Here are some ideas to get you started:
 - 🛠 I’m currently building <a href="https://thevoz.in/" target="__blank">Voz</a>.
 - 📫 How to reach me: LinkedIN
-
-<p>
-<div class="hello">
-  <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_300_kckabl3r.gif" height="200" width="200"></div>
-</div>
-</p>
 
 <br />
 
